@@ -2,8 +2,6 @@
 """
 ECG Data Generation for Testing and Examples
 Generates physiologically realistic ECG signals for development and testing.
-
-SAVE THIS FILE AS: examples/generate_ecg_data.py
 """
 
 import numpy as np
