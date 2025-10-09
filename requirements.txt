@@ -1,0 +1,17 @@
+# Core dependencies - Tested on Python 3.8-3.11
+numpy==1.24.3
+scipy==1.10.1
+matplotlib==3.7.1
+
+# Optional dependencies for file formats
+# Uncomment if using WFDB or EDF formats
+# wfdb==4.1.0
+# pyedflib==0.1.32
+
+# Testing
+pytest==7.3.1
+pytest-cov==4.1.0
+
+# Documentation
+sphinx==6.2.1
+sphinx-rtd-theme==1.2.0
