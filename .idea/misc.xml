@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12.3 WSL (Ubuntu-24.04): (/usr/bin/python3)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12.3 WSL (Ubuntu-24.04): (/usr/bin/python3)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (gcp-zero-cost-billing-monitor)" project-jdk-type="Python SDK" />
 </project>
